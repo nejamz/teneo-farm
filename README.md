@@ -6,7 +6,14 @@ Teneo Is an Browser extension Node Based. <br>
 <img src="https://cdn.prod.website-files.com/665c71122bb2018f6ed3f9c9/66eaaf8660d0ba047f3f2058_screenshot.png" loading="lazy" width="266" height="Auto" alt="" srcset="https://cdn.prod.website-files.com/665c71122bb2018f6ed3f9c9/66eaaf8660d0ba047f3f2058_screenshot-p-500.png 500w, https://cdn.prod.website-files.com/665c71122bb2018f6ed3f9c9/66eaaf8660d0ba047f3f2058_screenshot.png 626w" sizes="(max-width: 479px) 100vw, (max-width: 991px) 33vw, 266px" class="image-32"> <br>
 Get paid in $TENEO Tokens for simply running a node that accesses public social media data. It’s easy, passive, and you earn from the value you contribute.
 
+### Buy Proxies READ CAREFULLY BEFORE BUY!!!
+- : 
+1. [https://app.proxies.fo](https://app.proxies.fo/ref/2713843d-b22b-dfb8-3351-775d16d245fc)
 
+Use proxies from proxies fo to work on Grass Make Sure to BUY ISP Proxy for work it cost 3$ for 1gb Bandwith
+
+
+![3 isp](https://github.com/user-attachments/assets/1fdc59c0-8ae8-4d2f-98b7-f8f68034cc66)
 
 ## 💡 How To SignUp (Register)
 
